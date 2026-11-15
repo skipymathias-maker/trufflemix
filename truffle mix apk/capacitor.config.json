@@ -1,0 +1,9 @@
+{
+  "appId": "com.trufa.trufflemix",
+  "appName": "TruffleMix",
+  "webDir": "www",
+  "backgroundColor": "#5ec2f1",
+  "plugins": {
+    "CapacitorHttp": { "enabled": true }
+  }
+}
